@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655101717321",
+    "firebase_url": "https://bus-prediction-2c505-default-rtdb.firebaseio.com",
+    "project_id": "bus-prediction-2c505",
+    "storage_bucket": "bus-prediction-2c505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655101717321:android:af71a8254e89811f32c898",
+        "android_client_info": {
+          "package_name": "com.example.bus_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655101717321-4tv1ect5f0igbd96nm8rh5fghevauvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMIFCX_kJqVKX1eKJjNqagJ8gZ3Ag6hs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655101717321-4tv1ect5f0igbd96nm8rh5fghevauvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

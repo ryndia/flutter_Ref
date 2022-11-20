@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buil",
+				"build"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"ic",
+				"Icons"
+			],
+			[
+				"I",
+				"Icons"
+			],
+			[
+				"sta",
+				"StatelessWidget"
+			],
+			[
+				"colo",
+				"Colors"
+			],
+			[
+				"col",
+				"Column"
+			],
+			[
+				"Con",
+				"ContainerWithBoxDEcorationWidget"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"tv",
+				"tv_usec"
+			],
+			[
+				"t",
+				"tv_usec"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"in",
+				"main"
+			],
+			[
+				"c",
+				"cost"
+			],
+			[
+				"R",
+				"Reg_no"
+			],
+			[
+				"se",
+				"servicing_no"
+			],
+			[
+				"a",
+				"assignstudent"
+			],
+			[
+				"S",
+				"struct"
+			],
+			[
+				"ma",
+				"maxminfind"
+			],
+			[
+				"sm",
+				"smallballV"
+			],
+			[
+				"sma",
+				"smallballV"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"f",
+				"lf"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"sd",
+				"stdio.h"
+			],
+			[
+				"sr",
+				"string.h"
+			],
+			[
+				"i",
+				"main"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-anchor"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"TR",
+				"translateX()"
+			],
+			[
+				"sca",
+				"scale()"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"paddig",
+				"padding-left"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"conte",
+				"align-content"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"dark",
+				"darkgrey"
+			],
+			[
+				"backr",
+				"background-repeat"
+			],
+			[
+				"backgron",
+				"background"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"sup",
+				"superH"
+			],
+			[
+				"temp",
+				"tempL"
+			],
+			[
+				"tem",
+				"tempL"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"corus",
+				"carousel"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"grad",
+				"linear-gradient()"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"Ca",
+				"caption"
+			],
+			[
+				"l",
+				"li"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: itn",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dar",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ryndia/Documents/fly.dart';",
+		"/home/ryndia/Documents/dismisswidget.dart';",
+		"/home/ryndia/Documents/gestureZoom.dart';",
+		"/home/ryndia/Documents/gridview.dart';",
+		"/home/ryndia/Documents/gridviewhome.dart';",
+		"/home/ryndia/Documents/itemListHome.dart",
+		"/home/ryndia/Documents/LeftDrawerWidget.dart';",
+		"/home/ryndia/Documents/menulisttile.dart';",
+		"/home/ryndia/Documents/tabbarhome.dart';",
+		"/home/ryndia/Documents/bottomNavbar.dart';",
+		"/home/ryndia/Documents/flyHome.dart",
+		"/home/ryndia/StudioProjects/chapter_4/lib/home.dart",
+		"/home/ryndia/Documents/animatedcontainer.dart';",
+		"/home/ryndia/Documents/balloon bizin corriz.dart';",
+		"/home/ryndia/Documents/opacity.dart';",
+		"/home/ryndia/Documents/crossfaed.dart';",
+		"/home/ryndia/Documents/about.dart';",
+		"/home/ryndia/Documents/gratitude.dart';",
+		"/home/ryndia/Documents/graditutehome.dart';",
+		"/home/ryndia/StudioProjects/chapter_6/lib/main.dart",
+		"/home/ryndia/StudioProjects/chapter_6_form/lib/home.dart",
+		"/home/ryndia/StudioProjects/chapter_6/lib/home.dart",
+		"/home/ryndia/StudioProjects/chapter_7_balloon/pubspec.yaml",
+		"/home/ryndia/StudioProjects/chapter_7_balloon/pubspec.lock",
+		"/usr/share/icons/candy-icons/icon-theme.cache",
+		"/home/ryndia/StudioProjects/counter/lib/main.dart",
+		"/home/ryndia/Documents/untitled1.dart",
+		"/home/ryndia/Documents/untitled.dart",
+		"/home/ryndia/.config/tint2/panellauncher.tint2rc",
+		"/home/ryndia/.xmonad/xmonad.hs",
+		"/home/ryndia/.config/tint2/icons.tint2rc",
+		"/home/ryndia/.config/tint2/workspaces.tint2rc",
+		"/usr/share/gtk-3.0/settings.ini",
+		"/home/ryndia/.bashrc",
+		"/home/ryndia/android-studio/Install-Linux-tar.txt",
+		"/home/ryndia/.bash_profile",
+		"/usr/share/gtk-2.0/gtkrc",
+		"/home/ryndia/.bash_history",
+		"/home/ryndia/.config/pcmanfm/default/pcmanfm.conf",
+		"/usr/share/pcmanfm/ui/about.ui",
+		"/usr/share/pcmanfm/ui/pref.ui",
+		"/home/ryndia/.config/pcmanfm/default/desktop-items-0.conf",
+		"/usr/share/gnome-settings-daemon/datetime/backward",
+		"/home/ryndia/.config/gtk-2.0/gtkfilechooser.ini",
+		"/home/ryndia/.config/gtk-3.0/settings.ini",
+		"/home/ryndia/.config/gtk-4.0/settings.ini",
+		"/home/ryndia/Documents/ryndia/c_code/lab45.txt",
+		"/home/ryndia/Documents/ryndia/c_code/labsheet3.c",
+		"/usr/share/licenses/betterlockscreen/LICENSE",
+		"/usr/share/doc/betterlockscreen/examples/betterlockscreenrc",
+		"/home/ryndia/Documents/ryndia/c_code/qu4.c",
+		"/tmp/mozilla_ryndia0/qu4.c",
+		"/home/ryndia/Documents/ryndia/c_code/data.txt",
+		"/home/ryndia/.config/cava/config",
+		"/home/ryndia/Note.txt",
+		"/home/ryndia/badsectors.txt",
+		"/home/ryndia/Desktop/f.c",
+		"/home/ryndia/zprofile",
+		"/home/ryndia/Documents/ryndia/c_code/radius.c",
+		"/home/ryndia/Documents/ryndia/c_code/labsheet2.c",
+		"/home/ryndia/.config/eww/scripts/getweather",
+		"/home/ryndia/.config/gtk-3.0/bookmarks",
+		"/home/ryndia/.config/tint2/clock.tint2rc",
+		"/home/ryndia/Documents/ryndia/java code/list.java",
+		"/home/ryndia/eclipse-workspace/.metadata/.log",
+		"/home/ryndia/.config/eww/scripts/quotes",
+		"/home/ryndia/.config/eww/scripts/lockscreen.sh",
+		"/home/ryndia/.config/eww/eww.scss",
+		"/usr/share/themes/Default/gtk-3.0/gtk-keys.css",
+		"/usr/share/themes/Raleigh/gtk-2.0/gtkrc",
+		"/usr/share/themes/Emacs/gtk-2.0-key/gtkrc",
+		"/usr/share/themes/Emacs/gtk-3.0/gtk-keys.css",
+		"/home/ryndia/.config/neofetch/config.conf",
+		"/home/ryndia/.config/rofi/config.rasi",
+		"/home/ryndia/.config/rofi/launcher/style.rasi",
+		"/home/ryndia/.local/share/xorg/Xorg.0.log",
+		"/usr/share/gnome-shell/search-providers/org.gnome.Nautilus.search-provider.ini",
+		"/tmp/mozilla_ryndia0/_Getintopc.com_Office_16.x64.en-US.ISO",
+		"/home/ryndia/Desktop/findmax_correction.java",
+		"/home/ryndia/Documents/ryndia/html_code/untitled.css",
+		"/home/ryndia/.config/rofi/powermenu/black_powermenu.rasi",
+		"/home/ryndia/.config/rofi/powermenu/card_circle.rasi",
+		"/home/ryndia/.config/rofi/launcher/black_launcher.rasi",
+		"/home/ryndia/bin/powermenu.sh",
+		"/home/ryndia/dotfiles-2.0/README.md",
+		"/tmp/mozilla_ryndia0/mysql-8.0.27-linux-glibc2.17-x86_64-minimal/mysql-test-8.0.27-linux-glibc2.17-x86_64-minimal/mysql-8.0.27-linux-glibc2.17-x86_64-minimal/README-test",
+		"/home/ryndia/Documents/ryndia/100_css/day1.html",
+		"/home/ryndia/Documents/ryndia/100_css/day1.css",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb/ryndia dindyalsarvesh@gmail.com(8187A06255641B66)_pub.asc",
+		"/home/ryndia/Downloads/code secret",
+		"/tmp/mozilla_ryndia0/Akshit akshit.sarju@umail.uom.ac.mu(C5799BF2E685AA46)_pub.asc",
+		"/tmp/mozilla_ryndia0/the one.txt.asc",
+		"/tmp/mozilla_ryndia0/Akshit akshit.sarju@umail.uom.ac.mu(C5799BF2E685AA46)_pub-1.asc",
+		"/tmp/mozilla_ryndia0/adarsh4 adarsh4@gmail.com(84D377031004F78A)_pub.asc",
+		"/tmp/mozilla_ryndia0/Anisha anishacoopen2001@gmail.com(F3229D537EDB33F3)_pub.asc",
+		"/tmp/mozilla_ryndia0/Anisha anishacoopen2001@gmail.com(534619EE9B4E2FB2)_pub.asc",
+		"/tmp/mozilla_ryndia0/Anisha anishacoopen2001@gmail.com(B766CD8CC373F636)_pub.asc",
+		"/home/ryndia/eclipse-workspace/labsheet_oot/textfile2.txt",
+		"/home/ryndia/eclipse-workspace/labsheet_oot/textfile.txt",
+		"/home/ryndia/eclipse-workspace/labsheet_oot/textfile3.txt",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb/linbuild/qt4.5/bin/qmake",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb-docker/README.md",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb/README.build",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb/qmake-linux64.sh",
+		"/run/media/ryndia/e472fc2a-e3aa-4d86-94ff-9effb1df7872/gpg4usb/linbuild/qt4.7/bin/qmake",
+		"/run/media/ryndia/46B2-A20D/gpg4usb-0.3.3-2/gpg4usb/README",
+		"/home/ryndia/Desktop/test.html",
+		"/sys/class/backlight/intel_backlight/max_brightness",
+		"/sys/class/backlight/intel_backlight/scale",
+		"/sys/class/backlight/intel_backlight/type",
+		"/sys/class/backlight/intel_backlight/device/status",
+		"/sys/class/backlight/intel_backlight/brightness",
+		"/home/ryndia/Documents/ryndia/html_code/untitled.html",
+		"/home/ryndia/cache/tahoenext.log",
+		"/sys/class/backlight/intel_backlight/actual_brightness",
+		"/etc/pacman.conf",
+		"/etc/passwd",
+		"/home/ryndia/Documents/ryndia/html_code/style.css",
+		"/home/ryndia/Documents/ryndia/html_code/carousel.html",
+		"/home/ryndia/Documents/ryndia/Year 2/Notes Y2- Reeshal/Algorithm/lectures Meilin/JAVA Collections.txt",
+		"/home/ryndia/Documents/ryndia/html_code/hello_css.html",
+		"/home/ryndia/.config/sublime-text/Packages/Browser Sync/browser_sync.py",
+		"/home/ryndia/Documents/ryndia/html_code/php_code/hello.php",
+		"/usr/share/themes/Default/gtk-2.0-key/gtkrc",
+		"/usr/share/nautilus/ontology/nautilus.description",
+		"/home/ryndia/.xmonad.old/xmonad.hs",
+		"/home/ryndia/dotfiles-2.0/xmonad/xmonad.hs",
+		"/opt/lampp/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"value) => _validateItemRequired(value);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

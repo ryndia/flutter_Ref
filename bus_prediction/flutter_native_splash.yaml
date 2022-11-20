@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/bus.png
+
+  android_12:
+    image: assets/images/bus.png
+    icon_background_color: "#ffffff"
+
+
+  web: false
